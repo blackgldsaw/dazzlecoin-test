@@ -1,0 +1,9 @@
+Building Dazzlecoin
+
+See doc/readme-qt.rst for instructions on building Dazzlecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Dazzlecoin.
+
+See doc/build-*.txt for instructions on building dazzlecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Dazzlecoin.
